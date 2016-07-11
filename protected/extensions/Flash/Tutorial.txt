@@ -1,0 +1,9 @@
+----- Layout Main -----
+ <?php $this->renderPartial('//site/dialog'); ?>
+
+---- Contoh Pemakaian di Controller ----
+$message = "Succesfully Login!<br> Have fun.";
+                
+$title = "Information";
+                
+Yii::app()->user->setflash('1', array('title' => $title, 'content' => $message));

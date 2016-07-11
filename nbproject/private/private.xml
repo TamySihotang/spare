@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/Office.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/Request.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/controllers/StockController.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/authorBranchOffice/Register.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/stock/show.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/config/main.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/request/_form.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/RegistrationKancab.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/stock/admin.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/stock/viewStock.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/Spare.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/site/index.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/User.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/controllers/AuthorBranchOfficeController.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/request/admin.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/request/_form1.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/SpareOffice.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/views/request/create.php</file>
+            <file>file:/C:/xampp/htdocs/logistic/protected/models/SparepartList.php</file>
+        </group>
+    </open-files>
+</project-private>
